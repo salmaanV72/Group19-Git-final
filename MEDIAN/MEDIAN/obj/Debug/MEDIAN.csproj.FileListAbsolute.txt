@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\MEDIAN\MEDIAN\bin\Debug\MEDIAN.exe.config
+C:\Users\HP\Desktop\MEDIAN\MEDIAN\obj\Debug\MEDIAN.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\MEDIAN\MEDIAN\obj\Debug\MEDIAN.Form1.resources
+C:\Users\HP\Desktop\MEDIAN\MEDIAN\obj\Debug\MEDIAN.Properties.Resources.resources
+C:\Users\HP\Desktop\MEDIAN\MEDIAN\obj\Debug\MEDIAN.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\bin\Debug\MEDIAN.exe.config
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\obj\Debug\MEDIAN.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\obj\Debug\MEDIAN.Form1.resources
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\obj\Debug\MEDIAN.Properties.Resources.resources
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\obj\Debug\MEDIAN.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\bin\Debug\MEDIAN.exe
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\bin\Debug\MEDIAN.pdb
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\obj\Debug\MEDIAN.exe
+C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\obj\Debug\MEDIAN.pdb
+C:\Users\Student\Desktop\Git\MEDIAN\MEDIAN\bin\Debug\MEDIAN.exe.config
+C:\Users\Student\Desktop\Git\MEDIAN\MEDIAN\obj\Debug\MEDIAN.exe
+C:\Users\Student\Desktop\Git\MEDIAN\MEDIAN\obj\Debug\MEDIAN.pdb
