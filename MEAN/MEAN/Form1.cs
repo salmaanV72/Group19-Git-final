@@ -23,6 +23,7 @@ namespace MEAN
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //Describes what should happen when the button is clicked
             userN = Convert.ToInt16(textBox1.Text);
             numbers = new int[userN];
             Random rand = new Random();
@@ -39,7 +40,7 @@ namespace MEAN
             {
                 label3.Text += " " + numbers[i].ToString();
             }
-            MessageBox.Show("MÉAN value is: " + numbers.Average());
+            MessageBox.Show("MEAN value is: " + numbers.Average());
         }
 
         private void label3_Click(object sender, EventArgs e)
