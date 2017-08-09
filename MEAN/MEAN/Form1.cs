@@ -24,14 +24,14 @@ namespace MEAN
         private void button1_Click(object sender, EventArgs e)
         {
             //Describes what should happen when the button is clicked
-            userN = Convert.ToInt16(textBox1.Text);
-            numbers = new int[userN];
-            Random rand = new Random();
-            for (int i = 0; i < userN; i++)
+            userN = Convert.ToInt16(textBox1.Text);//stores the entered value as an integer to user
+            numbers = new int[userN];//initializes to save userN the number entered as the numbers array
+            Random rand = new Random();//generates random numbers
+            for (int i = 0; i < userN; i++)// for loop that determines which values to use
             {
-                numbers[i] = rand.Next(1, 20);
+                numbers[i] = rand.Next(1, 20);//line to actually generate the random numbers
             }
-            calcMin(numbers);
+            calcMin(numbers);//calls method that calculates mean 
         }
         public void calcMin(int[] nums)
         {
