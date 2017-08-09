@@ -22,6 +22,7 @@ namespace MEDIAN
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //method to calculate the median
             userN = Convert.ToInt16(textBox1.Text);
             numbers = new int[userN];
             Random rand = new Random();
