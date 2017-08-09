@@ -14,10 +14,12 @@ namespace MIN
     {
         public int userN;
         public int[] numbers;
+        public int n;
         public Form1()
         {
             InitializeComponent();
             userN = 0;
+            n = 0;
         }
 
         private void button1_Click(object sender, EventArgs e)
