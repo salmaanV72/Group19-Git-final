@@ -16,3 +16,6 @@ C:\Users\Student\Desktop\Git\MEAN\MEAN\obj\Debug\MEAN.csprojResolveAssemblyRefer
 C:\Users\Student\Desktop\Git\MEAN\MEAN\obj\Debug\MEAN.Form1.resources
 C:\Users\Student\Desktop\Git\MEAN\MEAN\obj\Debug\MEAN.Properties.Resources.resources
 C:\Users\Student\Desktop\Git\MEAN\MEAN\obj\Debug\MEAN.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MEAN\MEAN\bin\Debug\MEAN.exe.config
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MEAN\MEAN\obj\Debug\MEAN.exe
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MEAN\MEAN\obj\Debug\MEAN.pdb

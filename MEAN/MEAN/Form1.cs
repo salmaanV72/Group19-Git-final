@@ -12,6 +12,7 @@ namespace MEAN
 {
     public partial class Form1 : Form
     {
+        //initialization
         public int userN;
         public int[] numbers;
         public Form1()
