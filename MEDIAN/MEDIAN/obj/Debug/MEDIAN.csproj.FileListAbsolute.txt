@@ -15,3 +15,6 @@ C:\Users\Student\Downloads\C# PROJECTS GIT\MEDIAN\MEDIAN\obj\Debug\MEDIAN.pdb
 C:\Users\Student\Desktop\Git\MEDIAN\MEDIAN\bin\Debug\MEDIAN.exe.config
 C:\Users\Student\Desktop\Git\MEDIAN\MEDIAN\obj\Debug\MEDIAN.exe
 C:\Users\Student\Desktop\Git\MEDIAN\MEDIAN\obj\Debug\MEDIAN.pdb
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MEDIAN\MEDIAN\bin\Debug\MEDIAN.exe.config
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MEDIAN\MEDIAN\obj\Debug\MEDIAN.exe
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MEDIAN\MEDIAN\obj\Debug\MEDIAN.pdb
