@@ -18,7 +18,7 @@ namespace MEAN
         public Form1()
         {
             InitializeComponent();
-            userN = 0;
+            userN = 0;// set user equal to 0
         }
 
         private void button1_Click(object sender, EventArgs e)
