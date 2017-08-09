@@ -34,6 +34,7 @@ namespace MEAN
         }
         public void calcMin(int[] nums)
         {
+            //program to calculate mean
             for (int i = 0; i < numbers.Length - 1; i++)
             {
                 label3.Text += " " + numbers[i].ToString();
