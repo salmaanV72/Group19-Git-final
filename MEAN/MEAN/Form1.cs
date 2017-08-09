@@ -40,7 +40,7 @@ namespace MEAN
             {
                 label3.Text += " " + numbers[i].ToString();
             }
-            MessageBox.Show("MEAN value is: " + numbers.Average());
+            MessageBox.Show("MEAN value is: " + numbers.Average());//messagebox to display mean
         }
 
         private void label3_Click(object sender, EventArgs e)
