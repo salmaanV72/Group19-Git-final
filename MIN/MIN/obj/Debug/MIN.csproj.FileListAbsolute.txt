@@ -10,3 +10,6 @@ C:\Users\HP\Desktop\MIN\MIN\obj\Debug\MIN.pdb
 C:\Users\Student\Desktop\Git\MIN\MIN\bin\Debug\MIN.exe.config
 C:\Users\Student\Desktop\Git\MIN\MIN\obj\Debug\MIN.exe
 C:\Users\Student\Desktop\Git\MIN\MIN\obj\Debug\MIN.pdb
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MIN\MIN\bin\Debug\MIN.exe.config
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MIN\MIN\obj\Debug\MIN.exe
+C:\Users\Student\Downloads\Gitprac\Group19-Git-final\MIN\MIN\obj\Debug\MIN.pdb

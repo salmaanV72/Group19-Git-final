@@ -1,0 +1,24 @@
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\bin\Debug\MAX.exe.config
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\bin\Debug\MAX.exe
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\bin\Debug\MAX.pdb
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\obj\Debug\MAX.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\obj\Debug\MAX.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\obj\Debug\MAX.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\obj\Debug\MAX.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\obj\Debug\MAX.exe
+c:\users\student\documents\visual studio 2015\Projects\MAX\MAX\obj\Debug\MAX.pdb
+C:\Users\HP\Desktop\MAX\MAX\bin\Debug\MAX.exe.config
+C:\Users\HP\Desktop\MAX\MAX\obj\Debug\MAX.exe
+C:\Users\HP\Desktop\MAX\MAX\obj\Debug\MAX.pdb
+C:\Users\HP\Desktop\MAX\MAX\bin\Debug\MAX.exe
+C:\Users\HP\Desktop\MAX\MAX\bin\Debug\MAX.pdb
+C:\Users\HP\Desktop\MAX\MAX\obj\Debug\MAX.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\MAX\MAX\obj\Debug\MAX.Form1.resources
+C:\Users\HP\Desktop\MAX\MAX\obj\Debug\MAX.Properties.Resources.resources
+C:\Users\HP\Desktop\MAX\MAX\obj\Debug\MAX.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Git\MAX\MAX\bin\Debug\MAX.exe.config
+C:\Users\Student\Desktop\Git\MAX\MAX\obj\Debug\MAX.exe
+C:\Users\Student\Desktop\Git\MAX\MAX\obj\Debug\MAX.pdb
+E:\2nd semester\Git\MAX\MAX\bin\Debug\MAX.exe.config
+E:\2nd semester\Git\MAX\MAX\obj\Debug\MAX.exe
+E:\2nd semester\Git\MAX\MAX\obj\Debug\MAX.pdb
